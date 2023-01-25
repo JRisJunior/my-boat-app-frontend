@@ -7,8 +7,8 @@ function App() {
   return (
     <div>
       <Header />
-      <ExampleComponent />
       <Content />
+      <ExampleComponent />
       <Footer />
     </div>
   );
